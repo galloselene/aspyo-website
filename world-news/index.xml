@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>ASPYO</title>
+<link>https://galloselene.github.io/aspyo-website/world-news/</link>
+<atom:link href="https://galloselene.github.io/aspyo-website/world-news/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.553</generator>
+<lastBuildDate>Fri, 07 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Resumen científico — Febrero 2025</title>
+  <link>https://galloselene.github.io/aspyo-website/world-news/posts/2025-02-resumen.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="novedades-en-investigación" class="level2">
+<h2 class="anchored" data-anchor-id="novedades-en-investigación">Novedades en investigación</h2>
+<section id="nuevos-ensayos-clínicos" class="level3">
+<h3 class="anchored" data-anchor-id="nuevos-ensayos-clínicos">Nuevos ensayos clínicos</h3>
+<p>Resumen de ensayos clínicos activos relacionados con condiciones metabólicas. <em>(Contenido de ejemplo — actualizar con información real)</em></p>
+</section>
+<section id="publicaciones-destacadas" class="level3">
+<h3 class="anchored" data-anchor-id="publicaciones-destacadas">Publicaciones destacadas</h3>
+<p>Artículos científicos relevantes del mes. <em>(Contenido de ejemplo — actualizar con información real)</em></p>
+</section>
+</section>
+<section id="noticias-internacionales" class="level2">
+<h2 class="anchored" data-anchor-id="noticias-internacionales">Noticias internacionales</h2>
+<section id="conferencias-y-congresos" class="level3">
+<h3 class="anchored" data-anchor-id="conferencias-y-congresos">Conferencias y congresos</h3>
+<p>Resumen de eventos científicos internacionales relevantes. <em>(Contenido de ejemplo — actualizar con información real)</em></p>
+</section>
+<section id="regulación-y-acceso-a-tratamientos" class="level3">
+<h3 class="anchored" data-anchor-id="regulación-y-acceso-a-tratamientos">Regulación y acceso a tratamientos</h3>
+<p>Novedades en políticas sanitarias y acceso a medicamentos. <em>(Contenido de ejemplo — actualizar con información real)</em></p>
+<hr>
+<p><em>Fuentes: PubMed, ClinicalTrials.gov, EMA, EURORDIS</em></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://galloselene.github.io/aspyo-website/world-news/posts/2025-02-resumen.html</guid>
+  <pubDate>Fri, 07 Feb 2025 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

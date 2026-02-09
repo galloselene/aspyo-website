@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>ASPYO</title>
+<link>https://galloselene.github.io/aspyo-website/news/</link>
+<atom:link href="https://galloselene.github.io/aspyo-website/news/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.553</generator>
+<lastBuildDate>Fri, 07 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Bienvenidos a la nueva web de ASPYO</title>
+  <link>https://galloselene.github.io/aspyo-website/news/posts/bienvenida.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Nos alegra presentar la nueva página web de ASPYO. Este espacio nace con el objetivo de ser un punto de encuentro para pacientes y familias afectadas por condiciones metabólicas congénitas.</p>
+<section id="qué-encontrarás-aquí" class="level2">
+<h2 class="anchored" data-anchor-id="qué-encontrarás-aquí">¿Qué encontrarás aquí?</h2>
+<ul>
+<li>Información actualizada sobre condiciones metabólicas</li>
+<li>Noticias de la asociación y eventos</li>
+<li>Avances científicos y de investigación</li>
+<li>Recursos prácticos para el día a día</li>
+</ul>
+</section>
+<section id="mantente-informado" class="level2">
+<h2 class="anchored" data-anchor-id="mantente-informado">Mantente informado</h2>
+<p>Visita nuestra web regularmente para estar al día. También puedes escribirnos a contacto@aspyo.org para cualquier consulta.</p>
+<p>¡Gracias por formar parte de ASPYO!</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://galloselene.github.io/aspyo-website/news/posts/bienvenida.html</guid>
+  <pubDate>Fri, 07 Feb 2025 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

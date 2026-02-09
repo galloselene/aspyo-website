@@ -11,6 +11,11 @@ Listado de tiendas, distribuidores y opciones online para comprar alimentos espe
 :::
 
 ::: {.resource-card}
+### [Cocinar bajo en proteínas](cooking.qmd)
+Blogs, recetas e ideas de nuestra comunidad para cocinar platos deliciosos y aptos para dietas bajas en proteínas.
+:::
+
+::: {.resource-card}
 ### [Documentos útiles](documents.qmd)
 Guías, formularios y documentos de referencia para pacientes y familias.
 :::

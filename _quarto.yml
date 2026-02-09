@@ -22,6 +22,8 @@ website:
         menu:
           - text: "Dónde comprar alimentos"
             href: resources/food.qmd
+          - text: "Cocinar bajo en proteínas"
+            href: resources/cooking.qmd
           - text: "Documentos útiles"
             href: resources/documents.qmd
       - text: "Donar"

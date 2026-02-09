@@ -2,31 +2,74 @@
 title: "Dónde comprar alimentos"
 ---
 
-## Tiendas especializadas
+## Tiendas online especializadas
 
-| Tienda | Tipo | Web | Envío |
-|--------|------|-----|-------|
-| *Ejemplo Tienda 1* | Online | ejemplo1.com | Nacional |
-| *Ejemplo Tienda 2* | Física y online | ejemplo2.com | Nacional |
-| *Ejemplo Tienda 3* | Online | ejemplo3.com | Internacional |
+- **[alecaran.com](https://alecaran.com)** — Alecarán Metabólicos. Empresa de La Roda, Albacete, dedicada a la elaboración propia de productos frescos bajos en proteínas. También venden otros productos de otras marcas como harina, pasta, quesos veganos, pan, postres… con marcas como Loprofin, Sanavi, Aproten, Mevalia, …
+- **[ecodiet.es](https://ecodiet.es)** — Tienda online de Logroño especializada en la venta de productos sin gluten, sin lactosa, sin huevo… y para dieta PKU o baja en proteínas.
+- **[sanavi.com](https://sanavi.com)** — Sanavi es una fábrica de Granada que tiene una pequeña línea de productos bajos en proteínas: básicamente galletas, harina, pasta y sustituto de leche.
+- **[viata.es](https://viata.es)** — Farmacia online donde se puede encontrar alguna variedad de pasta y harina aproteica, marcas Loprofin y Aproten.
+- **[GHD Fresc](https://www.ghd.es/)** — Página web donde se puede comprar productos veganos refrigerados como quesos Violife, "sin jamón" marca Rollito Vegano con 1,5 gr prot×100g, y pasta aproteica marca Aproten.
+- **[Farmacia Loreto (Italia)](https://farmacialoreto.it/alimenti/alimenti-speciali)** — Farmacia online italiana con amplia variedad de alimentos especiales. Los gastos de envío a España son elevados.
 
-## Supermercados con opciones
+## Supermercados
 
-- **Mercadona** — Algunos productos bajos en proteína en la sección de dietética
-- **Carrefour** — Gama de productos sin gluten y bajos en proteína
-- **El Corte Inglés** — Sección de alimentación especial
+### Carrefour
 
-## Marcas de referencia
+Productos BP (bajos en proteínas) que se pueden encontrar en las neveras y en la zona sin gluten:
 
-- *Marca ejemplo 1* — Pastas, harinas, panes
-- *Marca ejemplo 2* — Fórmulas metabólicas
-- *Marca ejemplo 3* — Snacks y galletas
+- **Yogures y postres vegetales** elaborados con bebidas de coco y arroz (las más bajas en proteínas). No se consideran aproteicos los postres elaborados con bebida de soja. Elegir yogures vegetales con base de coco preferiblemente. Marcas: KAIKU, ANDROS, ALPRO, LÍNEA VEGETAL CARREFOUR.
+- **Quesos veganos** estilo mozzarella rallados o en lonchas, sabor original, cheddar, crema de untar… marca VIOLIFE. También NURISHH en lonchas y en polvo sabor parmesano. Quesitos veganos mini BABYBEL (papel verde).
+- **Bebida vegetal de arroz** marca Carrefour enriquecida en calcio, brick de 1 litro.
+- **Zona sin gluten** — Diferentes marcas (AIROS, PROCELI, NUTRI-FREE, ABUELO BREAD, PANCELIAC, línea blanca CARREFOUR) para panes de molde, pan de hamburguesas, pan de perritos, piquitos, galletas… todo sin gluten pero que por sus ingredientes (principalmente almidones) también son bajos en proteínas o aptos dentro de una dieta aproteica siempre que se contabilicen y se consuman en cantidades moderadas.
 
-## Consejos para las compras
+Algunos productos sin gluten de interés:
 
-- Compara precios entre tiendas online antes de hacer pedidos grandes
-- Consulta con tu equipo médico sobre los productos más adecuados
-- Algunas comunidades autónomas subvencionan parte de los alimentos especiales
+| Producto | Proteínas |
+|----------|-----------|
+| Galletas tiburón Gullón sabor chocolate | 1,9 gr prot ×100g |
+| Galletas mini dinosaurios Artiach | 1,5 gr prot ×100g |
+| Pan rebanadas Proceli (4 und) | 1,4 gr prot ×100g (0,56 gr prot c/u) |
+| Piquitos saladitos Abuelo Bread | 1,6 gr prot ×100g |
+| Pan de hamburguesa Nutri Free (3 und) | 2,2 gr prot ×100g (0,80 gr c/u) |
+| Pan de hot dogs Nutri Free (2 und) | 2,2 gr prot ×100g (0,72 gr prot c/u) |
+| Zona Internacional: snacks de yuca y platanitos | (tipo patatas fritas) |
+
+### Dia%
+
+| Producto | Proteínas |
+|----------|-----------|
+| Pan de molde sin gluten El Molino (línea blanca Dia%) | 1,45 gr prot ×100g (0,34 gr prot por rebanada aprox.) |
+| Pan rebanadas Proceli (4 und) sin gluten | 1,4 gr prot ×100g (0,56 gr prot c/u) |
+| Postres veganos VEGEDIA | (no todos los supermercados tienen esta línea vegana) |
+
+### Lidl
+
+- **VEMONDO** — Línea vegana que incluye postres de frutas, yogures MILBONA y quesos en lonchas. (No todos los supermercados tienen esta línea vegana).
+
+### Mercadona
+
+| Producto | Proteínas |
+|----------|-----------|
+| Pan de molde Hacendado sin gluten (500 gr / 14 rebanadas) | 1 gr prot ×100g (0,3 gr prot por rebanada) |
+| Pan de hamburguesa Hacendado sin gluten (2 und de 80 gr c/u) | 1,5 gr prot ×100g (1,2 gr prot por bollo) |
+| Cracker Hacendado sin gluten con romero (200 gr / 6 bolsitas × 8 crackers) | 2,5 gr prot ×100g (0,8 gr cada bolsita) |
+| Yogur ALPRO coconut natural | 0,6 gr prot ×100g |
+| Postres gelificados de frutas con azúcar (pack 6 vasitos) | 0% prot |
+| Helados: polos de nieve sabor frutas con azúcar | 0% prot |
+| Helados mini (por unidad) | entre 1 y 2 gr prot |
+| Bases de pizza sin gluten congeladas Hacendado (400 gr / 2 bases de 200 gr) | 1,3 gr prot ×100g (0,33 gr prot por porción si se corta en 8) |
+| Almidón de maíz Hacendado (maicena) | 0,3 gr prot ×100g |
+| Preparado para flan o natillas FLANÍN / EL NIÑO / POTAX marca Maizena | — |
+
+El almidón de maíz sirve estupendamente como sustituto de huevo y para masas de croquetas, hamburguesas vegetales y bechamel.
+
+### Hipercor, Supermercado del Corte Inglés y Alcampo
+
+- **Masa de hojaldre ADPAN** (menos de 0,3 gr prot ×100g) — Solo se encuentra en las neveras de estos establecimientos.
+
+## Recomendación importante
+
+Revisar siempre los valores nutricionales de este tipo de productos sin gluten o veganos que consideramos "bajos en proteínas". Los fabricantes pueden variar sus ingredientes o la composición nutricional en algún momento y por tanto puede subir la cantidad de proteínas de forma inesperada.
 
 ---
 

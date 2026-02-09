@@ -1,0 +1,30 @@
+---
+title: "ASPYO"
+subtitle: "Asociación de Pacientes"
+toc: false
+---
+
+::: {.hero-section}
+![](images/logo.jpeg)
+
+# Bienvenidos a ASPYO
+
+Somos una asociación dedicada a apoyar a pacientes y familias afectadas por condiciones metabólicas congénitas. Trabajamos para mejorar la calidad de vida, facilitar el acceso a tratamientos y crear una comunidad de apoyo.
+:::
+
+## Nuestra misión
+
+Acompañar y representar a los pacientes con enfermedades metabólicas congénitas, promoviendo:
+
+- **Información** actualizada sobre tratamientos e investigación
+- **Acceso** a alimentos especiales y recursos médicos
+- **Comunidad** entre pacientes y familias
+- **Visibilidad** de las condiciones metabólicas ante instituciones y sociedad
+
+## Últimas novedades
+
+Consulta nuestras secciones de [Noticias de ASPYO](news/index.qmd) y [Actualidad Científica](world-news/index.qmd) para mantenerte informado.
+
+## Contacto
+
+Si tienes preguntas o quieres unirte a la asociación, escríbenos a **contacto@aspyo.org**.

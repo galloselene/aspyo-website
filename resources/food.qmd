@@ -1,0 +1,33 @@
+---
+title: "Dónde comprar alimentos"
+---
+
+## Tiendas especializadas
+
+| Tienda | Tipo | Web | Envío |
+|--------|------|-----|-------|
+| *Ejemplo Tienda 1* | Online | ejemplo1.com | Nacional |
+| *Ejemplo Tienda 2* | Física y online | ejemplo2.com | Nacional |
+| *Ejemplo Tienda 3* | Online | ejemplo3.com | Internacional |
+
+## Supermercados con opciones
+
+- **Mercadona** — Algunos productos bajos en proteína en la sección de dietética
+- **Carrefour** — Gama de productos sin gluten y bajos en proteína
+- **El Corte Inglés** — Sección de alimentación especial
+
+## Marcas de referencia
+
+- *Marca ejemplo 1* — Pastas, harinas, panes
+- *Marca ejemplo 2* — Fórmulas metabólicas
+- *Marca ejemplo 3* — Snacks y galletas
+
+## Consejos para las compras
+
+- Compara precios entre tiendas online antes de hacer pedidos grandes
+- Consulta con tu equipo médico sobre los productos más adecuados
+- Algunas comunidades autónomas subvencionan parte de los alimentos especiales
+
+---
+
+*¿Conoces una tienda que debería estar en esta lista? Escríbenos a contacto@aspyo.org*

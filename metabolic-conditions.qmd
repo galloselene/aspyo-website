@@ -1,0 +1,37 @@
+---
+title: "Sobre las condiciones metabólicas"
+---
+
+## ¿Qué son las enfermedades metabólicas congénitas?
+
+Las enfermedades metabólicas congénitas (también llamadas errores innatos del metabolismo) son un grupo de trastornos genéticos en los que el cuerpo no puede procesar correctamente ciertos nutrientes o sustancias.
+
+Estas condiciones se detectan habitualmente mediante el **cribado neonatal** (prueba del talón) realizado a los recién nacidos.
+
+## Condiciones que abarcamos
+
+- **Fenilcetonuria (PKU)** — Incapacidad para metabolizar el aminoácido fenilalanina
+- **Tirosinemia** — Alteración del metabolismo de la tirosina
+- **Acidemias orgánicas** — Grupo de trastornos del metabolismo de aminoácidos
+- **Defectos del ciclo de la urea** — Dificultad para eliminar el amoníaco del cuerpo
+- **Otros errores innatos del metabolismo**
+
+## Diagnóstico y tratamiento
+
+El diagnóstico temprano es fundamental. La mayoría de estas condiciones se gestionan mediante:
+
+- **Dieta especial** restringida en ciertos aminoácidos o nutrientes
+- **Alimentos médicos especiales** (fórmulas metabólicas)
+- **Seguimiento médico** regular con equipos especializados
+- **Medicación específica** según la condición
+
+## Vivir con una condición metabólica
+
+Vivir con una enfermedad metabólica requiere adaptación, pero con el tratamiento adecuado, los pacientes pueden llevar una vida plena. La comunidad y el apoyo entre familias son esenciales.
+
+Si necesitas orientación, [contacta con nosotros](index.qmd#contacto).
+
+## Recursos adicionales
+
+- [Dónde comprar alimentos especiales](resources/food.qmd)
+- [Documentos útiles](resources/documents.qmd)

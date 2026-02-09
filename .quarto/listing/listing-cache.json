@@ -1,0 +1,13 @@
+{
+  "listingMap": {
+    "news/index.qmd": [
+      "posts"
+    ],
+    "events/index.qmd": [
+      "posts"
+    ],
+    "world-news/index.qmd": [
+      "posts"
+    ]
+  }
+}

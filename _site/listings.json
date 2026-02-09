@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/world-news/index.html",
+    "items": [
+      "/world-news/posts/2025-02-resumen.html"
+    ]
+  },
+  {
+    "listing": "/events/index.html",
+    "items": [
+      "/events/posts/ejemplo-evento.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/posts/bienvenida.html"
+    ]
+  }
+]

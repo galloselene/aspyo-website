@@ -1,0 +1,16 @@
+---
+title: "Recursos"
+toc: false
+---
+
+Encuentra información práctica para el día a día con una condición metabólica.
+
+::: {.resource-card}
+### [Dónde comprar alimentos](food.qmd)
+Listado de tiendas, distribuidores y opciones online para comprar alimentos especiales bajos en proteína y otros productos médicos.
+:::
+
+::: {.resource-card}
+### [Documentos útiles](documents.qmd)
+Guías, formularios y documentos de referencia para pacientes y familias.
+:::

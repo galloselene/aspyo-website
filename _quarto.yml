@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "ASPYO"
+  favicon: images/logo.jpeg
+  navbar:
+    logo: images/logo.jpeg
+    background: primary
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Condiciones Metabólicas"
+        href: metabolic-conditions.qmd
+      - text: "Noticias de ASPYO"
+        href: news/index.qmd
+      - text: "Eventos"
+        href: events/index.qmd
+      - text: "Actualidad Científica"
+        href: world-news/index.qmd
+      - text: "Recursos"
+        menu:
+          - text: "Dónde comprar alimentos"
+            href: resources/food.qmd
+          - text: "Documentos útiles"
+            href: resources/documents.qmd
+      - text: "Donar"
+        href: donate.qmd
+  page-footer:
+    center: |
+      ASPYO - Asociación de Pacientes | contacto@aspyo.org
+    background: primary
+
+format:
+  html:
+    theme:
+      light:
+        - flatly
+        - styles.scss
+    toc: true
+    lang: es

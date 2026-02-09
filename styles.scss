@@ -1,0 +1,64 @@
+/*-- scss:defaults --*/
+
+// Match ASPYO logo green
+$green: #4CAF50;
+$primary: #2c8c3c;
+$link-color: $primary;
+
+/*-- scss:rules --*/
+
+// Navbar brand styling
+.navbar-brand img {
+  max-height: 45px;
+}
+
+// Hero section on homepage
+.hero-section {
+  text-align: center;
+  padding: 3rem 1rem;
+  margin-bottom: 2rem;
+}
+
+.hero-section img {
+  max-height: 200px;
+  margin-bottom: 1.5rem;
+}
+
+// Card styling for listings
+.quarto-listing {
+  margin-top: 1rem;
+}
+
+// Donate button highlight
+.donate-highlight {
+  background-color: $primary;
+  color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.donate-highlight a {
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+// Resource cards
+.resource-card {
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  transition: box-shadow 0.2s;
+}
+
+.resource-card:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+// Footer
+.nav-footer {
+  font-size: 0.9rem;
+}

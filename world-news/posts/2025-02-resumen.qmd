@@ -1,0 +1,25 @@
+---
+title: "Resumen científico — Febrero 2025"
+date: "2025-02-08"
+description: "Avances en investigación y tratamiento de enfermedades metabólicas congénitas."
+---
+
+## Novedades en investigación
+
+### Nuevos ensayos clínicos
+Resumen de ensayos clínicos activos relacionados con condiciones metabólicas. *(Contenido de ejemplo — actualizar con información real)*
+
+### Publicaciones destacadas
+Artículos científicos relevantes del mes. *(Contenido de ejemplo — actualizar con información real)*
+
+## Noticias internacionales
+
+### Conferencias y congresos
+Resumen de eventos científicos internacionales relevantes. *(Contenido de ejemplo — actualizar con información real)*
+
+### Regulación y acceso a tratamientos
+Novedades en políticas sanitarias y acceso a medicamentos. *(Contenido de ejemplo — actualizar con información real)*
+
+---
+
+*Fuentes: PubMed, ClinicalTrials.gov, EMA, EURORDIS*

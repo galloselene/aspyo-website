@@ -1,0 +1,180 @@
+---
+title: "Derechos de las Familias con Enfermedades Metabólicas en España y Andalucía"
+---
+
+> Guía práctica de las leyes que protegen a personas con trastornos metabólicos congénitos (fenilcetonuria, tirosinemia, galactosemia, acidemias orgánicas, etc.) y a sus familias. Actualizada en febrero de 2026.
+
+---
+
+## 1. Suplementos nutricionales financiados por la Seguridad Social
+
+El Sistema Nacional de Salud (SNS) financia los **suplementos nutricionales médicos** para personas con trastornos metabólicos congénitos: fórmulas de aminoácidos (sin fenilalanina, etc.), módulos nutricionales y otros alimentos dietéticos para usos médicos especiales que estén incluidos en el nomenclátor oficial.
+
+**Importante — lo que NO está financiado:** Los **alimentos especiales bajos en proteínas** de uso cotidiano (pan, pasta, harina, galletas, etc.) **no están cubiertos** por el SNS. Las familias deben comprarlos por su cuenta, lo que supone un coste económico significativo. Asociaciones como [ASFEMA](https://asfema.org) organizan bancos de alimentos especiales para aliviar esta carga.
+
+**Base legal:**
+
+- [Real Decreto 1030/2006](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-16212) (Anexo VII) — incluye la dispensación de tratamientos dietoterápicos para trastornos metabólicos congénitos dentro de la cartera de servicios comunes del SNS.
+- [Real Decreto 1205/2010](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-14660) — fija los importes máximos de financiación y los criterios de inclusión de estos productos en el nomenclátor del SNS.
+
+---
+
+## 2. Cribado neonatal: detección precoz
+
+Todos los recién nacidos en España tienen derecho al cribado neonatal (prueba del talón) para la detección precoz de enfermedades metabólicas. En Andalucía, el programa es uno de los más amplios del país:
+
+- **38 enfermedades congénitas** detectadas (2025), incluyendo PKU, MCADD, LCHADD, acidemia glutárica tipo I, galactosemia y muchas más.
+- El programa es **gratuito y universal** para todos los recién nacidos en Andalucía.
+
+**Base legal:**
+
+- [Orden SSI/2065/2014](https://www.sanidad.gob.es/areas/promocionPrevencion/cribado/cribadoNeonatal/enfermedadesEndocrinoMetabolicas/home.htm) — establece el mínimo estatal de 7 enfermedades.
+- [Programa de Cribado Neonatal de Andalucía](https://www.juntadeandalucia.es/servicios/publicaciones/detalle/465601.html) — amplía la detección muy por encima del mínimo estatal.
+
+---
+
+## 3. Prestación CUME: cuando tu hijo necesita cuidado continuo
+
+Si tu hijo tiene una enfermedad metabólica grave que ha requerido hospitalización y necesita tratamiento continuado tras el alta, puedes reducir tu jornada laboral y cobrar una prestación de la Seguridad Social.
+
+**Qué es:**
+
+- Prestación económica que compensa la reducción de jornada (mínimo 50%) de un progenitor para cuidar de un menor con enfermedad grave.
+- Se cobra el **100% de la base reguladora** en proporción a la reducción de jornada.
+- Cubre el período de hospitalización y el tratamiento continuado en domicilio tras el diagnóstico y la hospitalización.
+
+**Edad:** Hasta los **23 años** del hijo. Ampliable a **26 años** si tiene discapacidad reconocida >= 65%.
+
+**Enfermedades metabólicas incluidas en el listado oficial:**
+
+- Fenilcetonuria, tirosinemia, enfermedad de orina con olor a jarabe de arce, homocistinuria
+- Glucogenosis, galactosemia, intolerancia hereditaria a la fructosa
+- Mucopolisacaridosis, esfingolipidosis, enfermedades lisosomiales
+- Enfermedades de los peroxisomas y enfermedades mitocondriales
+- Cualquier otro error innato del metabolismo grave que precise cuidados permanentes en régimen de ingreso hospitalario u hospitalización a domicilio
+
+**Atención — limitaciones en la práctica:**
+
+- El CUME exige que el menor necesite **cuidado directo, continuo y permanente** y que haya existido hospitalización o se requiera tratamiento continuado equivalente a hospitalización domiciliaria.
+- Una enfermedad metabólica **estable y controlada solo con dieta** (como una PKU bien manejada en casa) **puede no cumplir los requisitos** del CUME, ya que no implica hospitalización ni cuidados de nivel hospitalario.
+- Ha habido **denegaciones por parte de mutuas** en casos de enfermedades metabólicas sin ingreso hospitalario previo. Existen sentencias favorables a las familias, pero el resultado depende de cada caso.
+- Es fundamental que el informe médico detalle la gravedad, la necesidad de cuidado permanente y la relación con la hospitalización o el tratamiento continuado.
+
+**Cómo solicitarlo:** Se necesita una declaración médica del facultativo del SNS que acredite la enfermedad y la necesidad de cuidado directo, continuo y permanente. La solicitud se presenta ante la mutua colaboradora o el INSS.
+
+**Base legal:** [RD 1148/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-13119), modificado por [RD 677/2023](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16652). Listado actualizado por [Orden TMS/103/2019](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-1691).
+
+---
+
+## 4. Permisos y derechos laborales para cuidadores
+
+### Permisos retribuidos (te siguen pagando)
+
+| Permiso | Duración | Cuándo aplica |
+|---|---|---|
+| Enfermedad grave u hospitalización de familiar | **5 días** | Hospitalización, intervención o reposo domiciliario de hijo, cónyuge o familiar hasta 2.º grado |
+| Fuerza mayor familiar | **4 días al año** | Urgencia por enfermedad o accidente de familiar o conviviente que requiera presencia inmediata |
+
+### Reducción de jornada (cobras menos pero conservas el puesto)
+
+- Puedes reducir entre **1/8 y 1/2 de tu jornada** para cuidar de un hijo menor de 12 años, o de un familiar que no pueda valerse por sí mismo.
+- Tú eliges el horario.
+- Si te despiden durante la reducción de jornada sin causa justificada, el despido es **nulo** (readmisión obligatoria).
+
+### Excedencia por cuidado de familiar (sin sueldo pero con protección)
+
+- **Hasta 3 años** para cuidado de hijos.
+- **Hasta 2 años** para cuidado de familiar hasta 2.º grado que no pueda valerse por sí mismo.
+- El primer año se reserva tu puesto exacto.
+- El primer año cuenta como **cotización efectiva** a la Seguridad Social (no pierdes derechos de jubilación ni prestaciones).
+
+**Base legal:** Estatuto de los Trabajadores, arts. [37.3, 37.6 y 46.3](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430). Permisos de 5 días y fuerza mayor: [RDL 5/2023](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14968).
+
+---
+
+## 5. Protección contra la discriminación por enfermedad
+
+Desde 2022, la enfermedad o condición de salud es una **causa de discriminación prohibida por ley** en España. Esto significa:
+
+- Nadie puede ser discriminado en el trabajo, la educación, los servicios sanitarios o la vivienda por tener una enfermedad metabólica.
+- En una entrevista de trabajo, el empleador **no puede preguntar** sobre tu estado de salud ni el de tus hijos.
+- Si te despiden por tu enfermedad o la de tu hijo, el despido es **nulo**.
+- Se aplica la **inversión de la carga de la prueba**: si aportas indicios de discriminación, la empresa debe demostrar que su decisión fue ajena a la enfermedad.
+
+**Base legal:** [Ley 15/2022, de 12 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589) — Ley integral para la igualdad de trato y la no discriminación.
+
+---
+
+## 6. Derecho a atención especializada y centro de referencia
+
+Los pacientes con enfermedades metabólicas congénitas tienen derecho a ser atendidos en un centro de referencia nacional (CSUR), independientemente de la comunidad autónoma en la que vivan.
+
+**En Andalucía:** El [Hospital Universitario Virgen del Rocío](https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/profesionales/cartera-de-servicios/directorio-de-unidades-y-procedimientos-de-referencia/hospital-universitario-virgen-del-rocio-enfermedades-metabolicas-congenitas) (Sevilla) es CSUR de Enfermedades Metabólicas Congénitas para niños y adultos desde 2018.
+
+**Otros derechos sanitarios en Andalucía:**
+
+- **Segunda opinión médica** sobre tu diagnóstico o tratamiento.
+- **Plazos máximos de atención garantizados** (Decreto 96/2004): si el SAS no te atiende dentro del plazo, tienes derecho a asistencia en centro privado a cargo del sistema público.
+- **Atención preferente** para personas con enfermedades crónicas ([Ley 2/1998, art. 6.1.j](https://www.boe.es/buscar/act.php?id=BOE-A-1998-18720)).
+
+---
+
+## 7. Educación: adaptaciones en el colegio
+
+Los niños con enfermedades metabólicas tienen derecho a adaptaciones en el entorno escolar:
+
+- **Comedor escolar:** Derecho a menú adaptado (bajo en proteínas, sin determinados aminoácidos, etc.) según la prescripción médica.
+- **Adaptaciones curriculares** si la enfermedad afecta al rendimiento o requiere ausencias (hospitalizaciones, revisiones médicas).
+- **Atención educativa domiciliaria** durante períodos de hospitalización o convalecencia.
+- Los centros deben contar con información sobre la enfermedad del alumno y un protocolo de actuación en caso de crisis metabólica.
+
+**Base legal:** [LOMLOE — Ley Orgánica 3/2020](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17264).
+
+---
+
+## 8. Plan Andaluz de Enfermedades Raras (PAPER 2025)
+
+Aprobado en diciembre de 2025, con **109 medidas** y una inversión de más de **8,5 millones de euros** hasta 2029. Medidas más relevantes para familias con enfermedades metabólicas:
+
+- **Ampliación del cribado neonatal** a nuevas enfermedades.
+- **Unidades multidisciplinares** de enfermedades raras en cada área sanitaria.
+- **Integración de información genética** en la historia clínica digital.
+- **Consulta preconcepcional** en atención primaria para familias portadoras.
+- **Apoyo psicosocial** para pacientes y familias.
+
+**Fuentes:** [FEDER](https://www.enfermedades-raras.org/actualidad/noticias/feder-valora-la-aprobacion-del-nuevo-plan-andaluz-de-enfermedades-raras-y-reclama-que-2026-sea-el-ano-de-su-implementacion-real) | [Diario Farma](https://diariofarma.com/2025/12/29/andalucia-activa-su-plan-de-atencion-a-enfermedades-raras-que-contara-con-109-mejoras)
+
+---
+
+## Resumen rápido
+
+| Derecho | Ley |
+|---|---|
+| Suplementos nutricionales financiados y sin copago (fórmulas de aminoácidos, módulos) | RD 1030/2006, RD 1205/2010 |
+| Alimentos bajos en proteínas (pan, pasta, etc.): **NO financiados** | — |
+| Cribado neonatal gratuito (38 enfermedades en Andalucía) | Orden SSI/2065/2014 |
+| Prestación CUME: reducir jornada y cobrar (requiere hospitalización previa) | RD 1148/2011, RD 677/2023 |
+| 5 días de permiso retribuido por hospitalización de familiar | RDL 5/2023 |
+| Reducción de jornada con protección frente a despido | Estatuto Trabajadores art. 37.6 |
+| Excedencia de hasta 3 años (hijos) o 2 años (familiar) | Estatuto Trabajadores art. 46.3 |
+| No discriminación por enfermedad (despido = nulo) | Ley 15/2022 |
+| Atención en centro de referencia (CSUR) | Ley 16/2003 |
+| Atención preferente por enfermedad crónica en Andalucía | Ley 2/1998 |
+| Adaptaciones en el colegio (menú, ausencias, apoyo) | LOMLOE (LO 3/2020) |
+| Plan Andaluz de Enfermedades Raras (109 medidas) | PAPER 2025 |
+
+---
+
+## Dónde pedir ayuda
+
+- **FEDER** (Federación Española de Enfermedades Raras): [enfermedades-raras.org](https://www.enfermedades-raras.org)
+- **AVAPKU** (Asociación de pacientes con PKU): [avapku.com](https://www.avapku.com)
+- **Metabólicos.es** (Asociación de familias): [metabolicos.es](https://metabolicos.es)
+- **Servicio Andaluz de Salud**: [sspa.juntadeandalucia.es](https://www.sspa.juntadeandalucia.es)
+- **CSUR Virgen del Rocío** (Sevilla): [hospitaluvrocio.es](https://hospitaluvrocio.es)
+- **Defensor del Pueblo Andaluz** (si no respetan tus derechos): [defensordelpuebloandaluz.es](https://www.defensordelpuebloandaluz.es)
+- **Orphanet** (base de datos europea de enfermedades raras): [orpha.net](https://www.orpha.net)
+
+---
+
+*Esta guía es informativa y no constituye asesoramiento jurídico. Para casos concretos, consulta con un profesional del derecho o con las asociaciones de pacientes.*

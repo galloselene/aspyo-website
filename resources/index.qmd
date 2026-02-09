@@ -16,6 +16,11 @@ Blogs, recetas e ideas de nuestra comunidad para cocinar platos deliciosos y apt
 :::
 
 ::: {.resource-card}
+### [Derechos y leyes](derechos.qmd)
+Guía práctica de las leyes que protegen a personas con trastornos metabólicos congénitos y a sus familias en España y Andalucía.
+:::
+
+::: {.resource-card}
 ### [Documentos útiles](documents.qmd)
 Guías, formularios y documentos de referencia para pacientes y familias.
 :::

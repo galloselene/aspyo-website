@@ -1,6 +1,6 @@
 ---
 title: "ASPYO"
-subtitle: "Asociación de Pacientes"
+subtitle: "PKU y trastornos metabólicos · Andalucía Oriental"
 toc: false
 ---
 
@@ -9,7 +9,9 @@ toc: false
 
 # Bienvenidos a ASPYO
 
-Somos una asociación dedicada a apoyar a pacientes y familias afectadas por condiciones metabólicas congénitas. Trabajamos para mejorar la calidad de vida, facilitar el acceso a tratamientos y crear una comunidad de apoyo.
+Somos una Asociación sin ánimo de lucro fundada oficialmente el 08/05/2016, inscrita en el Ministerio del Interior el 18/10/2016.
+
+Nace de la necesidad de dar mayor calidad a nuestros hijos con diferentes enfermedades metabólicas. La constituyen padres/madres que actúan como grupo de apoyo y que comparten sus experiencias.
 :::
 
 ## Nuestra misión
@@ -27,4 +29,6 @@ Consulta nuestras secciones de [Noticias de ASPYO](news/index.qmd) y [Actualidad
 
 ## Contacto
 
-Si tienes preguntas o quieres unirte a la asociación, escríbenos a **contacto@aspyo.org**.
+Si tienes preguntas o quieres unirte a la asociación, escríbenos a **aspyoandalucia.oriental@gmail.com**.
+
+[ASPYO en Facebook](https://www.facebook.com/aspyo.oficial){.btn .btn-outline-primary}

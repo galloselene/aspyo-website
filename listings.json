@@ -1,8 +1,8 @@
 [
   {
-    "listing": "/world-news/index.html",
+    "listing": "/news/index.html",
     "items": [
-      "/world-news/posts/2025-02-resumen.html"
+      "/news/posts/bienvenida.html"
     ]
   },
   {
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/world-news/index.html",
     "items": [
-      "/news/posts/bienvenida.html"
+      "/world-news/posts/2025-02-resumen.html"
     ]
   }
 ]

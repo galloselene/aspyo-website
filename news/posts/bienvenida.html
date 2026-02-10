@@ -122,6 +122,14 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Dónde comprar alimentos</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="../../resources/cooking.html">
+ <span class="dropdown-text">Cocinar bajo en proteínas</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources/derechos.html">
+ <span class="dropdown-text">Derechos y leyes</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../../resources/documents.html">
  <span class="dropdown-text">Documentos útiles</span></a>
   </li>  
@@ -197,7 +205,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="mantente-informado" class="level2">
 <h2 class="anchored" data-anchor-id="mantente-informado">Mantente informado</h2>
-<p>Visita nuestra web regularmente para estar al día. También puedes escribirnos a contacto@aspyo.org para cualquier consulta.</p>
+<p>Visita nuestra web regularmente para estar al día. También puedes escribirnos a aspyoandalucia.oriental@gmail.com para cualquier consulta.</p>
 <p>¡Gracias por formar parte de ASPYO!</p>
 
 
@@ -285,7 +293,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/galloselene\.github\.io\/aspyo-website\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -620,7 +628,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>ASPYO - Asociación de Pacientes | contacto@aspyo.org</p>
+<p>ASPYO - Asociación de fenilcetonuria y otros trastornos metabólicos de andalucía oriental | aspyoandalucia.oriental@gmail.com | <a href="https://www.facebook.com/aspyo.oficial">Facebook</a></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

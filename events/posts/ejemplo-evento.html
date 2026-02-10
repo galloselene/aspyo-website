@@ -122,6 +122,14 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Dónde comprar alimentos</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="../../resources/cooking.html">
+ <span class="dropdown-text">Cocinar bajo en proteínas</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../resources/derechos.html">
+ <span class="dropdown-text">Derechos y leyes</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../../resources/documents.html">
  <span class="dropdown-text">Documentos útiles</span></a>
   </li>  
@@ -193,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Fecha:</strong> 15 de marzo de 2025<br>
 <strong>Hora:</strong> 10:00 - 17:00<br>
 <strong>Lugar:</strong> Por confirmar<br>
-<strong>Inscripción:</strong> contacto@aspyo.org</p>
+<strong>Inscripción:</strong> aspyoandalucia.oriental@gmail.com</p>
 <section id="programa" class="level3">
 <h3 class="anchored" data-anchor-id="programa">Programa</h3>
 <ul>
@@ -292,7 +300,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/galloselene\.github\.io\/aspyo-website\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -627,7 +635,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>ASPYO - Asociación de Pacientes | contacto@aspyo.org</p>
+<p>ASPYO - Asociación de fenilcetonuria y otros trastornos metabólicos de andalucía oriental | aspyoandalucia.oriental@gmail.com | <a href="https://www.facebook.com/aspyo.oficial">Facebook</a></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
